@@ -1,0 +1,12 @@
+.cards {
+    display: grid;
+}
+
+#grafica {
+    width: 40vw;
+    height: 50vh;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
