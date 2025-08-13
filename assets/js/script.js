@@ -5,7 +5,7 @@ const btnConvertir = document.querySelector("#button");
 const grafica = document.querySelector("#myChart");
 const nota = document.querySelector(".footer");
 const errorGrafica = document.querySelector("#grafica");
-const apiURL = "https://mindcador.cl/api";
+const apiURL = "https://mindicador.cl/api";
 const apiURLAlternativa = "./mindicador.json";
 
 const getData = async () => {
